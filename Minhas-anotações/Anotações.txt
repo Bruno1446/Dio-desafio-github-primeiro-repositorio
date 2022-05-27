@@ -1,0 +1,5 @@
+Hoje(27/05/2022)Completei o primeiro módulo do Bootcaamp TQI Fullstack developer :D
+Eu teria completado dias antes mas infelizmente tive um problema com TLS, que não vem ativado no Windows 7.
+
+Adorei conhecer o Git e suas funcionalidades.
+Próximo módulo HTML e CSS3!
